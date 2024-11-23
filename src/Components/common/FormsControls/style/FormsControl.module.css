@@ -1,0 +1,16 @@
+.formControl{
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: none;
+}
+
+.formControl.error input,
+.formControl.error textarea{
+    border: solid 1px red;
+}
+
+.formControl.error span{
+    color: red;
+}
