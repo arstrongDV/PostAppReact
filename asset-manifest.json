@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PostAppReact/static/css/main.b9791a65.css",
-    "main.js": "/PostAppReact/static/js/main.3d8ca980.js",
+    "main.js": "/PostAppReact/static/js/main.c098b962.js",
     "static/js/453.68693753.chunk.js": "/PostAppReact/static/js/453.68693753.chunk.js",
     "static/css/948.2a55cb7b.chunk.css": "/PostAppReact/static/css/948.2a55cb7b.chunk.css",
     "static/js/948.cf6c16ae.chunk.js": "/PostAppReact/static/js/948.cf6c16ae.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/Spinner.gif": "/PostAppReact/static/media/Spinner.c43d5f0ca231b9efb0b8.gif",
     "index.html": "/PostAppReact/index.html",
     "main.b9791a65.css.map": "/PostAppReact/static/css/main.b9791a65.css.map",
-    "main.3d8ca980.js.map": "/PostAppReact/static/js/main.3d8ca980.js.map",
+    "main.c098b962.js.map": "/PostAppReact/static/js/main.c098b962.js.map",
     "453.68693753.chunk.js.map": "/PostAppReact/static/js/453.68693753.chunk.js.map",
     "948.2a55cb7b.chunk.css.map": "/PostAppReact/static/css/948.2a55cb7b.chunk.css.map",
     "948.cf6c16ae.chunk.js.map": "/PostAppReact/static/js/948.cf6c16ae.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.b9791a65.css",
-    "static/js/main.3d8ca980.js"
+    "static/js/main.c098b962.js"
   ]
 }
